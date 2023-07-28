@@ -7,6 +7,9 @@ const Review = () => {
   console.log(people,'people')
   const { name, job, image, text } = people[index];
 
+  console.log(test,'test')
+  
+
 
   const checkNumber = (number) => {
     console.log(number,'number')

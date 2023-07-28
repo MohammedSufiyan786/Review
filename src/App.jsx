@@ -5,6 +5,7 @@ import Review from './Review';
 
 
 const App = () => {
+  console.log(test,'test')
 
   return (
     <main>
