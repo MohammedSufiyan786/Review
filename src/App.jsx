@@ -5,7 +5,7 @@ import Review from './Review';
 
 
 const App = () => {
-
+console.log('test');
   return (
     <main>
         <section className="title">
